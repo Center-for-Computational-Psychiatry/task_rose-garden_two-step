@@ -63,13 +63,6 @@ Data is saved locally to CSV, either at the end of the game or upon user exiting
 
 ## More Information
 
-Author: Ember Zhang
-Contact: emberz@seas.upenn.edu
+Author: Ember Zhang, emberz@seas.upenn.edu
 
-Principal Investigator: Dr. Vincenzo Fiore
-Contact: vincenzo.fiore@mssm.edu
-
-
-
-Author Contact: ember_zhang@alumni.brown.edu
-
+Principal Investigator: Dr. Vincenzo Fiore, vincenzo.fiore@mssm.edu
