@@ -4,7 +4,7 @@
 
 A React.JS game developed for the Center for Computational Psychiatry at Mount Sinai. 
 
-The game is a variation of the two-stage behavioral task paradigm without explicit external rewards, developed for both local and online deployment.
+The game is a variation of the two-stage behavioral task paradigm without explicit external rewards, developed for both local deployment.
 
 [Play Game](https://rose-garden-two-step.vercel.app/)
 
